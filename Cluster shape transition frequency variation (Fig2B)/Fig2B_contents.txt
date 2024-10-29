@@ -1,0 +1,12 @@
+Fig2B contents
+
+power_script_ft.ps1 can be run in PowerShell, and generates the 40 filess with the prefix "May27_".
+It also copies and modifies appropriately the files KMC_ft_0.m and matlab_slurm_ft.sl into each
+"May27_" folders.
+
+matlab_slurm_ft.sl is the file that runs the code on ComputeCanada.
+
+KMC_ft_0.m is the simulation code file.
+
+KMC_Closed_frequency_May27-Copy1.ipynb is the file that pocesses the data after running the programs
+in the 40 files, and gives the graph in Fig2B of the IRE1 cluster conformation paper.

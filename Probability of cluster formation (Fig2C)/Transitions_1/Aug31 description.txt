@@ -1,0 +1,11 @@
+This was done for all interaction strength J = 5.3kT. 
+Initial Cluster Size [40,70,103,140] for each radiuses [12,15,18,21] (this is the number of lattice sites of the circumference )
+Per file: 6 runs, 5 hours per run -> total of 30 hours
+Per concentration per radius 4 files
+So total of 24 samples for each concentration per radius.
+testing at 10 different concentrations  to (e.g. for the circumferene = 12 case, the N_particles tested are 30,40,50,...,120) per file.
+Done for 4 radiuses
+40 files per radius. (4 files x 10 N_particles tested)
+
+total of 160 files running for over two days.
+
