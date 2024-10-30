@@ -9,7 +9,7 @@ The results from this project are published in the journal Soft Matter, and can 
 ### Background
 
 IRE1 proteins reside on the tubular surface of the endoplasmic reticulum inside biological cells. The endoplasmic reticulum is a network of tubes within the cell, and plays a pivital role in the proper delivery of proteins within the cell to their correct location. 
-The IRE1 proteins are able to detect and cluster together when the endoplasmic reticulum is overloaded with proteins, so they act as proteins that can signal increased stress levels. 
+The IRE1 proteins are able to detect and cluster together when the endoplasmic reticulum is overloaded with proteins, so IRE1 act as protein that can signal increased stress levels. 
 
 In this project, we used simulations to model the IRE1 protein clustering, and found that our simulated clusters can undergo interesting conformational changes that can impact how quickly the IRE1 clusters can grow. We also found that the cluster shape can have a effect on the long-term stability of the IRE1 clusters.
 
