@@ -17,7 +17,7 @@ In this project, we used simulations to model the IRE1 protein clustering, and f
 
 * The code that is used for simulating the IRE1 clusters can be found in the MATLAB files in each section. These are the .m files that typically begin with a the words 'KMC_'. Each MATLAB file is adjusted for the particular simulations that we carried out in that section.
 * To get an adequate amount of samples of data for the project, many 100s of simulations had to be performed. For those who would like to replicate these results, the PowerShell files were used to copy the MATLAB files that were then run on a computer cluster. 
-* The analysis of the data were done using Python. Each project section has several python files that were used for the data analysis.
+* The analysis of the data were done using Python. Each project section has several python or jupyter notebook files that were used for the data analysis.
 
 This project is closed to contributions, but feel free to download and try building more sophisticated versions of IRE1 clustering, or general protein clustering simulations on the endoplasmic reticulum!
 There is a lot of research out there that is starting to look at the exciting properties of proteins on intracellular organelles.
